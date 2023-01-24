@@ -11,3 +11,12 @@
 2023-01-23 11:39:22:3922 - [31merror[39m: [31mNão foi possível conectar ao banco de dados[39m
 2023-01-23 11:39:29:3929 - [32minfo[39m: [32mConectado ao banco de dados[39m
 2023-01-23 11:39:29:3929 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-01-24 10:50:49:5049 - [31merror[39m: [31mNão foi possível conectar ao banco de dados[39m
+2023-01-24 10:52:43:5243 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-01-24 10:52:43:5243 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-01-24 10:54:02:542 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-01-24 10:54:02:542 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-01-24 10:54:54:5454 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-01-24 10:54:54:5454 - [32minfo[39m: [32mApp rodando na porta 3000[39m
+2023-01-24 10:54:56:5456 - [35mhttp[39m: [35mGET /api/teste/ 200 17 - 3.489 ms[39m
+[35m[39m
