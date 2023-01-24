@@ -4,7 +4,15 @@ import Logger from '../../config/logger';
 
 
 async function createMovie(req: Request, res: Response) {
-    return res.status(200).send('Deu bom')
+    try {
+
+        const data = req.body;
+        const movie = await movieModel.create(data);
+        return res.status(201).json(movie);
+        
+    } catch (err: any) {
+        Logger.error(`Erro no sistema: ${err.message}`)
+    }
 }
 
 export default createMovie

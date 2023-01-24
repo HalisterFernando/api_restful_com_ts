@@ -24,3 +24,5 @@
 2023-01-24 13:21:16:2116 - [32minfo[39m: [32mApp rodando na porta 3000[39m
 2023-01-24 13:23:05:235 - [35mhttp[39m: [35mPOST /api/movie 200 7 - 10.179 ms[39m
 [35m[39m
+2023-01-24 13:28:34:2834 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2023-01-24 13:28:34:2834 - [32minfo[39m: [32mApp rodando na porta 3000[39m
